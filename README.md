@@ -7,9 +7,9 @@ This project is created to practice **markdown  Formatting**
 2. used markdown
 3. Beginner friendly
 ## Step to run 
-1. Clone this repository
-2. open the project folder
-3. run the program
+- Clone this repository
+- open the project folder
+- run the program
 This is ** Bold =_italic_ **
 
 
